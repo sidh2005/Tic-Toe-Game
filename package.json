@@ -1,0 +1,23 @@
+{
+    "name": "emoji-tic-tac-toe",
+    "version": "1.0.0",
+    "description": "A fun emoji-based tic-tac-toe game",
+    "main": "game.js",
+    "scripts": {
+      "start": "node game.js",
+      "test": "jest"
+    },
+    "keywords": [
+      "game",
+      "emoji",
+      "tic-tac-toe"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "prompt-sync": "^4.2.0"
+    },
+    "devDependencies": {
+      "jest": "^29.7.0"
+    }
+  }
