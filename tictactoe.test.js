@@ -21,7 +21,6 @@ describe('Emoji Tic-Tac-Toe Game', () => {
     });
     
     test('handleMove should place emoji on board and switch players', () => {
-      const initialCurrentPlayer = { name: 'Player1', emoji: '🦆' };
       const result = game.handleMove(4);
       expect(result).toStrictEqual(true);
       
