@@ -71,4 +71,4 @@ Perfect for beginners looking to strengthen their JavaScript fundamentals.
 - Maybe add like a AI mode or a robot mode so player can play against the computer. 
 
 ---
-(👉ﾟヮﾟ)👉 Made for fun & practice! 👈(ﾟヮﾟ👈)
+                    (👉ﾟヮﾟ)👉 Made for fun & practice! 👈(ﾟヮﾟ👈)
